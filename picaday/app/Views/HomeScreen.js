@@ -92,7 +92,7 @@ export default class HomeScreen extends Component {
 const styles = StyleSheet.create({
     header_footer_style: {
         width: '100%',
-        height: 10,
+        height: 30,
     },
     input: {
         height: 40,
